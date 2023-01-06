@@ -5,3 +5,4 @@ Git tracks changes of files.
 my stupid boss still prefers SVN
 Creating a new branch is quick and simple
 add merge test
+main add test point1
