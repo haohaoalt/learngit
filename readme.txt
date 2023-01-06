@@ -7,3 +7,4 @@ Creating a new branch is quick and simple
 add merge test
 add dev-branch new
 add test point1
+add test point2
