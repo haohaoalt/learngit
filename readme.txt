@@ -20,3 +20,4 @@ add dev-branch new
 add test point1
 2023-01-10 测试dev
 
+add test point2
