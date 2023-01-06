@@ -11,3 +11,4 @@ main add test point1
 //SSP 
 add dev-branch new
 add test point1
+add test point2
