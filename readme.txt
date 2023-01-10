@@ -16,3 +16,7 @@ add test point2
 on the dev branch  update1
 
 on the dev branch  update2
+add dev-branch new
+add test point1
+add test point2
+
