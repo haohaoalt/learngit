@@ -27,3 +27,4 @@ add test point2
 add test point1
 add test point2
 add test point3
+add test point4
