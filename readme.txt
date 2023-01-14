@@ -24,3 +24,4 @@ add test point1
 2023-01-10 测试dev
 
 add test point2
+add test point1
